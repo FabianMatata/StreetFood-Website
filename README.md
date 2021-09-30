@@ -3,12 +3,14 @@
 StreetFood Website
 
 ## Project Description
+This is a website that shows various foods served in the streets.
 
 ## Author
 Fabian Matata
 
 ## Technology Used
-HTML, CSS
+HTML - Builds the structure of the pages.
+CSS - Styles the pages.
 
 ## Project Live Link
 
@@ -17,5 +19,12 @@ HTML, CSS
 ## Dependencies
 
 ## Setup & Installation Instructions
+A computer and access to the internet is required.
+To install the project you have to first download it.
+
 
 ## Contact & License Information 
+Copyright (c) 2021 Fabian Matata
+
+Permission is hereby granted for the use of the above software be it for personal or commercial use and no restrictions are made to the  use, copy,merge, publish or distribute of the software.
+The software is provided as it is and the author is not liable to any claim, damages or liability arising from the use of the above software.
