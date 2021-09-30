@@ -10,6 +10,10 @@ Fabian Matata
 ## Technology Used
 HTML, CSS
 
+## Project Live Link
+
+## Project Design Link
+
 ## Dependencies
 
 ## Setup & Installation Instructions
