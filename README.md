@@ -27,4 +27,5 @@ To install the project you have to first download it.
 Copyright (c) 2021 Fabian Matata
 
 Permission is hereby granted for the use of the above software be it for personal or commercial use and no restrictions are made to the  use, copy,merge, publish or distribute of the software.
+
 The software is provided as it is and the author is not liable to any claim, damages or liability arising from the use of the above software.
