@@ -3,7 +3,7 @@
 StreetFood Website
 
 ## Project Description
-This is a website that shows various foods served in a restaurant. Its used to advertise their main dishes.
+This is a website that shows various foods served in a restaurant. Its used to advertise their main dishes to their potential clients.
 
 ## Author
 Fabian Matata
