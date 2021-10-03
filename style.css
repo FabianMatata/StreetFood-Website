@@ -1,0 +1,401 @@
+/* body starts */
+
+body {
+    /* width: 500px; */
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 5px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+}
+
+
+/* body ends */
+
+
+/* banner start */
+
+#banner {
+    height: 400px;
+    width: 100%;
+    background-color: #E5E5E5;
+}
+
+.button {
+    border: none;
+    color: white;
+    font-weight: bold;
+    background-color: #6CB840;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+#happy {
+    float: left;
+    margin-left: 50px;
+}
+
+#street {
+    font-size: 40px;
+    color: green;
+}
+
+#stret {
+    font-size: 35px;
+    color: grey;
+}
+
+
+/* banner end*/
+
+
+/* banner 1 starts */
+
+.banner {
+    height: 600px;
+    background-color: #E5E5E5;
+    margin-bottom: 20px;
+}
+
+.dot {
+    height: 1000px;
+    width: 1000px;
+    background-color: #B8E79C;
+    border-radius: 50%;
+    display: inline-block;
+    float: right;
+    margin-right: -80px;
+    margin-top: -500px;
+    /* margin-bottom: 300px; */
+}
+
+.catering {
+    /* align-items: space-around; */
+    /* margin-left: 30px; */
+    /* align-items: right; */
+    /* padding: 35px; */
+    padding-right: 20px;
+}
+
+.play {
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 140px;
+    font-size: larger;
+}
+
+.circular {
+    margin: 100px;
+    width: 800px;
+    height: 800px;
+    border-top: 3px dashed #ccc;
+    /* border-right: 3px dashed rgb(12, 12, 12); */
+    /* border-left: 3px dashed #ccc; */
+    border-radius: 50%;
+    position: absolute;
+    right: -5%;
+    top: 35px;
+}
+
+.circular img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -50%;
+    /* width: 100%; */
+    height: 80px;
+    width: 80px;
+}
+
+.circular img:first-child {
+    transform: rotate(-1deg) translateY(180px);
+}
+
+.circular img:nth-child(2) {
+    transform: rotate(-80deg) translateY(150px);
+}
+
+.circular img:nth-child(3) {
+    transform: rotate(-96deg) translateY(365px);
+}
+
+.circular img:nth-child(4) {
+    transform: rotate(-89deg) translateY(560px);
+}
+
+.circular img:nth-child(5) {
+    transform: rotate(-77deg) translateY(730px);
+}
+
+.circular img:nth-child(6) {
+    transform: translate(-180deg) translate(350px);
+}
+
+
+/* #pilau {
+    margin-left: 030px;
+    margin-top: 90px;
+} */
+
+
+/* banner 1 ends */
+
+
+/* nav start */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* padding: 20px; */
+}
+
+li {
+    float: left;
+    list-style-type: none;
+}
+
+li a {
+    display: inline-block;
+    padding: 8px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+/* nav end */
+
+
+/* eating together starts */
+
+#eating {
+    float: left;
+    /* border: 2px solid green; */
+    margin-left: 13%;
+    margin-bottom: 40px;
+}
+
+.two {
+    height: 500px;
+    width: 700px;
+}
+
+#together {
+    /* border: 4px solid black; */
+    /* position: relative; */
+    float: right;
+    height: 500px;
+    width: 500px;
+    margin-right: 15%;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 70px;
+    align-content: space-around;
+}
+
+
+/* eating togther end */
+
+
+/* ..start */
+
+
+/* explore menu starts */
+
+.grid-container {
+    /* display: grid;
+    grid-gap: 50px 50px;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 500px 500px;
+    background: lightblue;
+    padding: 10px; */
+    display: flex;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    align-content: space-evenly;
+    /* height: 50px; */
+    background-color: #EAF3E4;
+    padding-bottom: 80px;
+}
+
+.grid-item {
+    /* background: dodgerblue;
+    border: 1px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center; */
+    display: inline-block;
+    padding: 0.5em;
+    display: block;
+    width: 33.333%;
+    box-sizing: border-box;
+    /* height: 200px; */
+    /* background-color: #fff; */
+}
+
+.grid-item img {
+    /* display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; */
+}
+
+.burger {
+    height: 150px;
+    width: 180px;
+    margin-left: -80px;
+    /* margin-bottom: 90px; */
+    margin-top: -70px;
+}
+
+.card {
+    background-color: #fff;
+    border-bottom-right-radius: 80px 80px;
+    width: 300px;
+    margin-left: 90px;
+}
+
+.card .bgn {
+    /* float: left; */
+}
+
+.meal {
+    /* float: right; */
+    margin-left: 70px;
+    align-content: center;
+}
+
+
+/* explore menu ends */
+
+
+/* hot deals start */
+
+.hot_deals {
+    /* text-align: center; */
+    background-color: #C9ECB6;
+    background-size: 100% auto;
+    display: inline-block;
+    width: 100%;
+    /* height: 600px; */
+}
+
+.parent {
+    position: relative;
+    /* top: 0; */
+    left: 0;
+    float: left;
+    /* left: 5%; */
+    /* margin: 10px 10px 10px 10px; */
+    /* margin: 20px; */
+    margin-left: 20px;
+    /* margin-bottom: 500px; */
+    /* margin-top: 10px; */
+    padding-left: 100px;
+}
+
+.image1 {
+    position: relative;
+    top: -180px;
+    left: 0;
+    /* border: 1px red solid; */
+}
+
+.image2 {
+    position: absolute;
+    top: 75px;
+    left: 0;
+    /* border: 1px solid green; */
+    padding-left: 100px;
+}
+
+.special {
+    /* display: block;
+    float: right;
+    width: 50%;
+    margin-left: 10px; */
+    float: right;
+    position: relative;
+    right: 20%;
+    top: -40px;
+}
+
+
+/* hot deals end */
+
+
+/* contact us start */
+
+.contact {
+    background-color: #FFF5DD;
+    /* align-items: center; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-clip: content-box;
+}
+
+#send {
+    margin-top: 20px;
+    margin-left: 90px;
+    margin-bottom: 30px;
+}
+
+
+/* contact us end */
+
+
+/* footer start */
+
+foooter {}
+
+.column {
+    float: left;
+    width: 25%;
+    height: 200px;
+    background-color: #C9ECB5;
+    margin-top: 40px;
+    text-align: center;
+    padding-top: 70px;
+    font-weight: bold;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+/* #lne {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    border-left: 3px dashed #000;
+} */
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+/* footer end */

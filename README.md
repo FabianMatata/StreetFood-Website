@@ -3,7 +3,7 @@
 StreetFood Website
 
 ## Project Description
-This is a website that shows various foods served in the streets.
+This is a website that shows various foods served in a restaurant. Its used to advertise their main dishes.
 
 ## Author
 Fabian Matata
@@ -15,6 +15,7 @@ CSS - Styles the pages.
 ## Project Live Link
 
 ## Project Design Link
+https://www.figma.com/file/fsNlRey9fRbTGLra7scmPc/Untitled?node-id=0%3A1
 
 ## Dependencies
 
