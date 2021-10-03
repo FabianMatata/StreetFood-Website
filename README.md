@@ -19,7 +19,7 @@ https://www.figma.com/file/fsNlRey9fRbTGLra7scmPc/Untitled?node-id=0%3A1
 
 ## Setup & Installation Instructions
 A computer and access to the internet is required.
-To install the project you have to first download it.
+To install the project you have to first download it, after which you can install and run it on your computer.
 
 
 ## Contact & License Information 
