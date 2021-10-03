@@ -17,8 +17,6 @@ CSS - Styles the pages.
 ## Project Design Link
 https://www.figma.com/file/fsNlRey9fRbTGLra7scmPc/Untitled?node-id=0%3A1
 
-## Dependencies
-
 ## Setup & Installation Instructions
 A computer and access to the internet is required.
 To install the project you have to first download it.
