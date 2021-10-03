@@ -4,7 +4,7 @@ StreetFood Website
 
 ## Project Description
 This is a website that shows various foods served in a restaurant. Its used to advertise their main dishes to their potential clients.
-The website plays a key role in marketing.
+The website plays a vital role in marketing.
 
 ## Author
 Fabian Matata
